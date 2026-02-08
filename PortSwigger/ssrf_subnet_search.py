@@ -23,7 +23,7 @@ def send_request(a):
             s = print(f"Found The IP at 192.168.0.{a}.")
             sys.exit()
     except requests.exceptions.RequestException as e:
-        print(f"")
+        print(f"") ## prints nothing cuz ye
 
 threads = []
 
