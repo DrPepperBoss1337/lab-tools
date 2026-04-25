@@ -9,6 +9,4 @@ This is just a repository for fun, automation tools for labs i complete.
 
 Yes, you can use these as you will.
 
-## End
-
-Nerd
+# End
